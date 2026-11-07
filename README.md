@@ -23,8 +23,6 @@ And now here we are: Chadley got created.
 
 ## Features:
 
-### Timeline and Notes
-
 - **200 MB RAM USE** Lightweight and responsive, 
 - Timeline-View and Memo Cards
 - Write and ManageNotes in your Self hosted Memos instance
