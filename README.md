@@ -41,7 +41,12 @@ And now here we are: Chadley got created.
 ## Timeline Screenshot:
 <img width="1920" height="1080" alt="timeline" src="https://github.com/user-attachments/assets/740bc8ac-91e0-4cf2-b041-05c1eba3c93b" />
 
-## Calendar Screenshot:
+## List-View Screenshot:
+<img width="1920" height="1080" alt="listview" src="https://github.com/user-attachments/assets/e14f7eb2-6380-40e4-acea-0a1f31834394" />
 
 ## Calendar Screenshot:
+<img width="1592" height="959" alt="kalender" src="https://github.com/user-attachments/assets/18fe4e3f-0475-47e1-9a17-96dbabe8b3b9" />
+
+
+
 
