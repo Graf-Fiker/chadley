@@ -45,6 +45,12 @@ And now here we are: Chadley got created.
 ## Calendar Screenshot:
 <img width="1592" height="959" alt="kalender" src="https://github.com/user-attachments/assets/18fe4e3f-0475-47e1-9a17-96dbabe8b3b9" />
 
+## Credits:
 
+Chadley is a client for the awesome [Memos](https://github.com/usememos/memos) project — all credit for the Memos server itself goes to its developers. Thanks for building such a great self-hosted tool! 
+
+## License:
+
+Chadley is licensed under the [MIT License](https://github.com/Graf-Fiker/chadley/blob/main/LICENSE). 
 
 
